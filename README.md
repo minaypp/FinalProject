@@ -22,6 +22,7 @@ Tips:
 - Use the 'Calculate best route' option to plan picking multiple items efficiently.
 - The system includes a cycle in the graph to demonstrate non-trivial graph structures.
 - 'Run Automated Tests' to check basic functionalities quickly.
+
 program already has preloaded data with locations and paths that can be used to test project functions
 program also has automated tests that show how the program functionalities
 
